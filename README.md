@@ -30,6 +30,7 @@
     e facil para quebrar pois o Arch nao empedi ou avisa sobre NENHUM ato erroneo que voce faca, te permitindo quebrar o sistema de todas as maneiras possiveis, sendo um linux focado 100% em usuarios mais avancados no Linux
 
     - Pontos Positivos:
+      Wiki Muito Bem estruturada, que se bem seguida conseguira aprender bastante coisa e resolver bastante problemas
       Totalmente Maleavel para qualquer workflow que voce desejar.
       Packaga Manager extremamente rapido.
       Muitos pacotes disponiveis para download.
@@ -80,7 +81,7 @@
         Totalmente focado em seu unico workflow, sendo extramamente nao recomendado e dificil mudar muito alem do que ja e lhe oferecido.
 
       - Ideal Para Quem?:
-        ideal para totalmente iniciantes no Linux, que so quer um sistema que funcione e seja bonito e pratico, sendo perfeito para quem nao quer resolver problemas e so quer fazer oqeu acha divertido no seu PC.
+        ideal para totalmente iniciantes no Linux, que so quer um sistema que funcione e seja bonito e pratico, sendo perfeito para quem nao quer resolver problemas e so quer fazer oque acha divertido no seu PC.
   </details>
 
   <details> <summary>NixOS</summary>
@@ -102,7 +103,33 @@
       - Ideal para Quem?:
         Ideal para majoritariamente programadores que querem garantir que seu aplicativo funcione exatamente igual para todos os sistemas, sendo muito complexo para uso de um usuario totalmente iniciante ou leigo
   </details>
+  
+</details>
 
-      
+<details> <summary>Explaining "Almost The Best Tier"</summary>
+
+  <details> <summary>CachyOS</summary>
+    um ArchLinux com acucar, que ja vem com aplicativos e desktop envinroment instalado e com patch no seu kernel com CPU scheduler modificado para garantir mais FPS em games
+    um sistema que tenta ser para iniciante porem e baseado em Arch que e um sistema que e para usuarios avancados, um sistema bem atualizado e um pouco instavel por ser Bleeding Edge
+
+    - Pontos Positivos:
+      Medianamente Maleavel, podendo modificar bastante se voce tiver conhecimento, so dando avisos ocasionalmente para avisar que se voce remover tal pacote vc ira remover tambem a pre-configuracao que o sistema fez, (quando vc esta mudando o shell por exemplo)
+      Um Arch mais simplificado com apps, dispositivos e servicos ja pre-configuradas para ser mais facil para o usuario final
+      Patch no kernel para ter mais FPS e desempenho em jogos
+      Como o Arch Linux, tem uma base de pacotes gigantesca
+      Wiki Muito Bem estruturada, que se bem seguida conseguira aprender bastante coisa e resolver bastante problemas
+
+    - Pontos Negativos:
+      Instalador nao muito intuitivo e que permite voce tira Core Components que podem quebrar o sistema antes mesmo de voce iniciar ele pela primeira vez
+      Muito Bloat por padrao, simplesmente vem Pre-instalado com diversos apps que muitos usuarios nunca usariam
+      Por padrao aplica configuracoes questionaveis, como o shell padrao ser o Fish, e ter varias pacotes de configuracoes pre-instalado que muda o padrao do aplicativo sendo confuso para quem esta usando certo aplicativo pela primeira vez
+      Alguns bugs ocorrem por ser um projeto bleeding edge de baixo orcamento
+      nao tem UX muito boa em muitas partes, fazendo voce nao intender direito oque cada coisa faz
+      Modificacao mais dificil quebrando o pilar da qualidade do Arch, dando aviso quando voce esta desinstalando uma configuracao default do CachyOS e nao recomendando a modificacao
+      como relatado por uma amiga, em alguns PC/Hardware os Patchs do Kernel do CachyOS podem diminuir seu FPS em certos jogos como o CS2
+
+    - Ideal para quem?:
+      Ideal para pessoas que querem o maximo desempenho possivel do seu PC e com as tecnologias mais recentes possiveis, sem passar pelo sufoco de configurar um Arch Linux e ter uma experiencia mais simplificada sem precisar de resolver tantos problemas ou instalar tudo do zero
+  </details>
   
 </details>
