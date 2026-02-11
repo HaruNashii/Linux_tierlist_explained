@@ -14,12 +14,12 @@
       Estavel, 
       Bem Atualizado, 
       Amplamente Testado, 
-      Mais Proximo De Um Padrao (Sendo Facil De Se Guiar Por Tutorias)
+      Mais Proximo De Um Sistema Padrao (Sendo Facil De Se Guiar Por Tutorias).
     
     - Pontos Negativos: 
     Package Manager Lento comparado com o Pacman e o APT,
-    a versao Workstation (versao com GNOME) vem com o gnome na sua versao mais pura (sem nenhuma modificacao), intao nao e bom para o usuario totalmente leigo que nao tera sua AppTray ativada por padrao
-    e altamente NAO RECOMENDADO a alteracao de DE ou WM, geralmente e focado em versoes, intao se voce baixou a versao "KDE" e recomendado vc usar SOMENTE o Kde, e se vc baixou a versao Workstation (Somente GNOME) e assim vai
+    a versao Workstation (versao com GNOME) vem com o gnome na sua versao mais pura (sem nenhuma modificacao), intao nao e bom para o usuario totalmente leigo que nao tera sua AppTray ativada por padrao.
+    e altamente NAO RECOMENDADO a alteracao de DE ou WM, geralmente e focado em versoes, intao se voce baixou a versao "KDE" e recomendado vc usar SOMENTE o Kde, e se vc baixou a versao Workstation (Somente GNOME) e assim vai.
 
     - Ideal para quem?:
     Ideal para pessoas que nao querem pensar muito sobre o seu computador e so quer q as coisas funcionem, e mesmo assim nao quer deixar novas funcoes para traz
@@ -30,20 +30,20 @@
     e facil para quebrar pois o Arch nao empedi ou avisa sobre NENHUM ato erroneo que voce faca, te permitindo quebrar o sistema de todas as maneiras possiveis, sendo um linux focado 100% em usuarios mais avancados no Linux
 
     - Pontos Positivos:
-      Totalmente Maleavel para qualquer workflow que voce desejar
-      Packaga Manager extremamente rapido
-      Muitos pacotes disponiveis para download
-      100% Atualizado recebendo as features mais recentes
+      Totalmente Maleavel para qualquer workflow que voce desejar.
+      Packaga Manager extremamente rapido.
+      Muitos pacotes disponiveis para download.
+      100% Atualizado recebendo as features mais recentes.
 
     - Pontos Negativos:
-      Processo de instalacao totalmente confuso e dificil para qualquer usuario sem experiencia em Linux
-      Por Padrao Sem nada, fazendo qualquer usuario leigo a ficar perdido ou nao conseguir usar a feature que ele deseja sem ter que pensar bastante antes
-      Extramamente Fragil, podendo quebrar a qualquer momento por coisas simples, como instalar um pacote corrompido
-      Feito para ser usado junto com o terminal e bastante esforco mental, tudo e baseado em terminal, feito para vc saber exatamente oque vc esta fazendo
-      Com Grandes Atualizacoes vem grandes Bugs, por ser muito atualizado tbm tem muitos bugs novos todos os dias
+      Processo de instalacao totalmente confuso e dificil para qualquer usuario sem experiencia em Linux.
+      Por Padrao Sem nada, fazendo qualquer usuario leigo a ficar perdido ou nao conseguir usar a feature que ele deseja sem ter que pensar bastante antes.
+      Extramamente Fragil, podendo quebrar a qualquer momento por coisas simples, como instalar um pacote corrompido.
+      Feito para ser usado junto com o terminal e bastante esforco mental, tudo e baseado em terminal, feito para vc saber exatamente oque vc esta fazendo.
+      Com Grandes Atualizacoes vem grandes Bugs, por ser muito atualizado tbm tem muitos bugs novos todos os dias.
 
       - Ideal para quem?:
-        Ideal para usuarios avancados de linux, que sabem exatamente oque querem e como alcancar oque quer, sendo construido peca por peca exatamente do jeito que o usuario desejar
+        Ideal para usuarios avancados de linux, que sabem exatamente oque querem e como alcancar oque quer, sendo construido peca por peca exatamente do jeito que o usuario desejar.
   </details>
 
   <details> <summary>Debian</summary>
@@ -51,19 +51,57 @@
     recebendo atualizacoes de pacotes de 2 em 2 anos, e com bases gigantescas de usuario, sendo a base mais utilizada de todos os linux, Debian e base de muitos projetos gigantes como o Ubuntu, e sendo muito maleavel para qualquer mudanca
 
       - Pontos Positivos:
-        Extremamente estavel, sendo muito dificil se encontrar bugs ou quebras do sistema
-        Extramamente Maleavel podendo escolher a dedo qual pacote voce quer
-        Base Gigante de usuarios contem milhares e milhares de tutoriais e guias de como resolver qualquer problema que voce venha encontrar
+        Extremamente estavel, sendo muito dificil se encontrar bugs ou quebras do sistema.
+        Extramamente Maleavel podendo escolher a dedo qual pacote voce quer.
+        Base Gigante de usuarios contem milhares e milhares de tutoriais e guias de como resolver qualquer problema que voce venha encontrar.
 
       - Pontos Negativos:
-        Extramamente Desatualizado em questao de features, se voce tem interesse nas novas features do kernel ou de algum Desktop Envinroment voce tera que esperar alguns anos ate chegar no Debian
-        Por padrao bastante CRU, sendo necessario voce saber muito bem oque voce quer para construir uma base estavel e concisa
-        Uns dos piores instaladores possiveis, extremamente confuso para novos usuarios
+        Extramamente Desatualizado em questao de features, se voce tem interesse nas novas features do kernel ou de algum Desktop Envinroment voce tera que esperar alguns anos ate chegar no Debian.
+        Por padrao bastante CRU, sendo necessario voce saber muito bem oque voce quer para construir uma base estavel e concisa.
+        Uns dos piores instaladores possiveis, extremamente confuso para novos usuarios.
 
       - Ideal Para quem?:
-        Ideal para usuarios intermediario/avancado que querem criar um sistema que so funcione nao importa oque aconteca, um sistema que nunca quebra e sempre consegue entregar oque ele foi feita para entregar, totalmente estavel e seguro, sem nenhum atraso
+        Ideal para usuarios intermediario/avancado que querem criar um sistema que so funcione nao importa oque aconteca, um sistema que nunca quebra e sempre consegue entregar oque ele foi feita para entregar, totalmente estavel e seguro, sem nenhum atraso.
   </details>
+
+  <details> <summary>ZorinOS</summary>
+    Sistema Totalmente simplificado feito totalmente para iniciantes em Linux, com bastante estabilidade e uma interface bonita que pode se encaixar em diversos gostos, tanto para usuarios de Windows, MacOS, Kde ou GNOME, sendo umas das distros que mais cresce atualmente
+    recebendo milhares de downloads novos todos os dias, tenho um release schedule lento para garantir bastante estabilidade e fornecendo bastante suporte e sempre uma experiencia mais smooth possivel, porem necessita que voce use extritamente o workflow criado nele, pois mudar de DE criaria bastante complicacoes
     
+      - Pontos Positivos:
+        Bastante estavel, muito bom para pessoas iniciantes que nao querem resolver problemas.
+        pronto por padrao, instale e saia usando um sistema operacional bonito e pratico, sem pensar muito.
+        UI e UX muito bonita e competente por padrao, deixando a maioria dos usuarios com uma boa impressao e ja conseguindo usar o sistema sem fazer nenhuma modificacao.
+        Bem documentado com milhares de usuarios e aplamente testado.
+
+      - Pontos Negativos:
+        Desatualizado e com release schedule muito lento comparados a outras distros.
+        Pouco Apps em seu repositorio APT, muitas vezes te obrigando a procurar mais por um app que vc precisa.
+        Totalmente focado em seu unico workflow, sendo extramamente nao recomendado e dificil mudar muito alem do que ja e lhe oferecido.
+
+      - Ideal Para Quem?:
+        ideal para totalmente iniciantes no Linux, que so quer um sistema que funcione e seja bonito e pratico, sendo perfeito para quem nao quer resolver problemas e so quer fazer oqeu acha divertido no seu PC.
+  </details>
+
+  <details> <summary>NixOS</summary>
+    Sistema feito para Programadores, criando um sistema totalmente reproduzivel e estavel nao importa oque aconteca, sempre gerando o mesmo resultado sempre, resolvendo o "Work On My Machine" que tantos programadores sofrem tanto, sendo totalmente segura com um sistema 
+    de backup automatico toda vez que voce muda o seu sistema, e o sistema e totalmente configurado por arquivos de configuracos, sendo simplificado quando voce pega o jeito
+
+      - Pontos Positivos:
+        Reproduzivel em qualquer PC, nao importa quanto vc troque o seu pc se voce copiar e colar o arquivo de configuracao em qualquer PC, voce sempre tera o mesmo PC, perfeito para criar o seu "sistema perfeito" e conseguir sempre ter ele (igual uma CFG do cs).
+        uma das maiores base de pacotes do mundo linux, com milhares de pacotes novos disponivel para se baixar todos os dias, sendo perfeito para voce baixar exatamente oque quer sem precisar ficar procurando muito
+        Totalmente maleavel para qualquer coisa que voce quiser, perfeito para qualquer use-case se voce quiser e dar o esforco o suficiente para atingi-lo
+        imutavel, sendo dificil ou praticamente impossivel de quebrar o sistema por deletar ou modificar um item que nao devia no root do sistema
+
+      - Pontos Negativos:
+        Sistema totalmente pragmatico, aceitando somente mudancas do seu jeito, sendo mais complexo de ser mexer do que a maioria dos sistemas normais, te obrigando a conhecer bastante de sistemas nichados somente para o uso dele
+        sistema de pacotes extremamente lento por cada pacote ser colocado em containers separados e ser catalogado
+        sistema nao-mutavel sendo impossivel de mexer na root do sistema sem pesquisar bastante algum metodo
+        sistema de pacotes extremamente confuso e nao descritivo/padronizado sendo muito dificil achar o local exato onde o app esta instalado e quebrando varios tipos de scripts como o Spicetify
+
+      - Ideal para Quem?:
+        Ideal para majoritariamente programadores que querem garantir que seu aplicativo funcione exatamente igual para todos os sistemas, sendo muito complexo para uso de um usuario totalmente iniciante ou leigo
+  </details>
 
       
   
