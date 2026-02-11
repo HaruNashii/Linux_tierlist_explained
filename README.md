@@ -132,4 +132,24 @@
       Ideal para pessoas que querem o maximo desempenho possivel do seu PC e com as tecnologias mais recentes possiveis, sem passar pelo sufoco de configurar um Arch Linux e ter uma experiencia mais simplificada sem precisar de resolver tantos problemas ou instalar tudo do zero
   </details>
   
+  <details> <summary>Nobara</summary>
+    Um Fedora para gamers, com patches de otimizacao para mais fps e repositorios modificados para ter pacotes atualizados e garantir o maximo de desempenho possivel, enquanto tem uma base mais estavel que a do Arch, Nobara e o CachyOS com base Fedora
+    tenho o beneficio de mais estabilidade mesmo tendo ferramentas novas, o Nobara traz diversos apps que ajudam ao usuario inicial a ter um bom comeco no linux para gaming, apesar de ser um projeto relativamente novo, esta recebendo muita atencao e melhorando bastante a cada dia
+
+    - Pontos Positivos:
+      Otimizado e estavel para games, parecido com o CachyOS.
+      com uma base forte como a do Fedora cria se um sistema confiavel e facil de fazer Debug.
+      simplifica acoes complexas como instalar o Davinci Resolve com seu propio app que gerencia alguns apps que o criador precisa usar
+      Pouquissimo Maleavel, nao se recomenda trocar de DE ou WM depois que ja tem ele instalado, por pode quebrar Portal e ter uma integracao com sistema nao funcionando corretamente
+
+    - Pontos Negativos:
+      Bloat desnecessario que e usado pelo criador da Distro, como o propio instalador do Davinci.
+      Projeto ainda e pequeno e pode ter falta de documentacao ou bugs novos.
+      Package Manager lento por usar DNF igual o Fedora
+
+    - Ideal para quem?:
+      Ideal para gamers que querem um bom fps e uma base estavel, mais nao quer perder em features de novos lancamentos, sem precisar usar muito o terminal torna-lo perfeito para usuarios iniciantes ou intermediario
+      
+  </details>
+  
 </details>
