@@ -4,7 +4,7 @@
 
 
 ### TLDR dos melhores:
-  - Fedora: o melhor na categoria de atualizado e estavel, o "Sweat Spot" perfeito para quem quer novas features e um sistema estavel, perfeito para qualquer uso do dia a dia, sendo uma base simples e robusta para se aprender e usar
+  - Fedora: o melhor na categoria de atualizado e estavel, o "Sweat Spot" perfeito para quem quer novas features e um sistema estavel, perfeito para qualquer uso do dia a dia, sendo uma base simples e robusta para se aprender e usar com varias opcoes chamadas de spins com varios Desktop Envinroment e Window Managers para voce testar
   - Arch Linux: Melhor na categoria de maleavel, um sistema operacional perfeito para voce montar exatamente do seu jeito, com cada peca sendo escolhida a dedo, fazendo voce ser o deus do seu propio computador
   - Debian: o melhor em estabilidade, um sistema totalmente estavel que nunca quebra, perfeito para transformar o seu PC em uma maquina de produtividade, do jeito que voce configurou sera o jeito que ele ficara, funcionando por anos e anos sem nenhum problema
   - ZorinOS: o melhor para iniciantes, um sistema totalmente feito para usuarios de Windows que tem medo de aprender coisas novas, cada simples coisas foram simplificadas e muito bem explicada para um facil entendimento, e eliminando 100% a necessidade de um terminal, ja vindo praticamente pronto para um uso que abranje a maioria das pessoas
@@ -23,6 +23,7 @@
       Bem Atualizado, 
       Amplamente Testado, 
       Mais Proximo De Um Sistema Padrao (Sendo Facil De Se Guiar Por Tutorias).
+      Tem Varias "Spins" que sao versoes do sistema com diferentes, Desktop Envinroment e Window Managers para se encaixar certinho com o seu gosto/preferencia
     
     - Pontos Negativos: 
     Package Manager Lento comparado com o Pacman e o APT,
