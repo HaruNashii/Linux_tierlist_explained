@@ -1,6 +1,14 @@
-# Linux_tierlist_explained
+# My Linux TierList Explained.
 
 <img width="1019" height="371" alt="image" src="https://github.com/user-attachments/assets/cd1ccc8a-97cb-4b62-9967-9cd9f47ffaaa" />
+
+
+### TLDR dos melhores:
+  - Fedora: o melhor na categoria de atualizado e estavel, o "Sweat Spot" perfeito para quem quer novas features e um sistema estavel, perfeito para qualquer uso do dia a dia, sendo uma base simples e robusta para se aprender e usar
+  - Arch Linux: Melhor na categoria de maleavel, um sistema operacional perfeito para voce montar exatamente do seu jeito, com cada peca sendo escolhida a dedo, fazendo voce ser o deus do seu propio computador
+  - Debian: o melhor em estabilidade, um sistema totalmente estavel que nunca quebra, perfeito para transformar o seu PC em uma maquina de produtividade, do jeito que voce configurou sera o jeito que ele ficara, funcionando por anos e anos sem nenhum problema
+  - ZorinOS: o melhor para iniciantes, um sistema totalmente feito para usuarios de Windows que tem medo de aprender coisas novas, cada simples coisas foram simplificadas e muito bem explicada para um facil entendimento, e eliminando 100% a necessidade de um terminal, ja vindo praticamente pronto para um uso que abranje a maioria das pessoas
+  - NixOS: o melhor para programadores, um sistema feito para sempre ser igual independente do Hardware, perfeito para garantir um software estavel e testar milhares de use-cases diferentes, resolvendo o famoso e infernal "Work-On-My-Machine", sendo um sistema muito pratico e maleavel para qualquer um que tenha tempo a aprender sua linguagem e seus beneficios
 
 
 
